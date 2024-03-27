@@ -1,4 +1,4 @@
-# CodeCuisine Restaurant Menu System
+# 🍝 CodeCuisine Restaurant Menu System 🥖
 
 Welcome to the CodeCuisine Restaurant Menu System! This project provides a simple web-based menu system for a restaurant where users can view the menu items and place orders.
 
