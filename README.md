@@ -42,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-Special thanks to [CodeCuisine](https://codecuisine.com) for providing the inspiration for this project.
+Special thanks to [CodeSpace](https://) for providing the inspiration for this project.
